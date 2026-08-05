@@ -1,0 +1,200 @@
+body {
+
+    font-family: Arial, sans-serif;
+
+    margin: 0;
+
+    background: #f5f7fb;
+
+    color: #222;
+
+}
+
+
+/* Header */
+
+header {
+
+    background: #0b3d91;
+
+    color: white;
+
+    text-align: center;
+
+    padding: 40px 20px;
+
+}
+
+
+header h1 {
+
+    font-size: 36px;
+
+    margin-bottom: 10px;
+
+}
+
+
+header p {
+
+    font-size: 20px;
+
+}
+
+
+/* Navigation */
+
+nav {
+
+    margin-top: 25px;
+
+}
+
+
+nav a {
+
+    color: white;
+
+    text-decoration: none;
+
+    margin: 0 15px;
+
+    font-size: 18px;
+
+}
+
+
+nav a:hover {
+
+    text-decoration: underline;
+
+}
+
+
+/* Sections */
+
+section {
+
+    max-width: 1000px;
+
+    margin: auto;
+
+    padding: 40px;
+
+}
+
+
+section h2 {
+
+    color: #0b3d91;
+
+}
+
+
+/* Project Card */
+
+.project-card {
+
+    background: white;
+
+    padding: 30px;
+
+    border-radius: 15px;
+
+    box-shadow: 0 5px 15px rgba(0,0,0,0.15);
+
+}
+
+
+.project-card h2,
+.project-card h3 {
+
+    color: #0b3d91;
+
+}
+
+
+.project-card p {
+
+    font-size: 18px;
+
+    line-height: 1.7;
+
+}
+
+
+.project-card li {
+
+    margin: 10px;
+
+    font-size: 17px;
+
+}
+
+
+/* Project Images */
+
+.project-image {
+
+    display: block;
+
+    width: 80%;
+
+    max-width: 700px;
+
+    height: auto;
+
+    margin: 25px auto;
+
+    border-radius: 12px;
+
+    box-shadow: 0 4px 12px rgba(0,0,0,0.20);
+
+    object-fit: contain;
+
+}
+
+
+/* Button */
+
+.btn {
+
+    display: inline-block;
+
+    background: #0b3d91;
+
+    color: white;
+
+    padding: 12px 25px;
+
+    text-decoration: none;
+
+    border-radius: 6px;
+
+    margin-top: 20px;
+
+}
+
+
+.btn:hover {
+
+    background: #1b5fc9;
+
+}
+
+
+/* Footer */
+
+footer {
+
+    background: #0b3d91;
+
+    color: white;
+
+    text-align: center;
+
+    padding: 20px;
+
+    margin-top: 40px;
+
+}
