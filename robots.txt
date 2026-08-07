@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /
+
+Sitemap: https://fakhraddinkh-maker.github.io/fakhraddin-portfolio/sitemap.xml
