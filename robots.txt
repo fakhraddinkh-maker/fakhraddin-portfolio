@@ -1,5 +1,4 @@
 User-agent: *
-
 Allow: /
 
-Sitemap: https://fakhraddinkh-maker.github.io/fakhraddin-portfolio/sitemap.xml
+Sitemap: https://fakhraddin-portfolio.onrender.com/sitemap.xml
